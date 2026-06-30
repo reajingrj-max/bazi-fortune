@@ -1,0 +1,4 @@
+:HL["/bazi-fortune/_next/static/chunks/0pqbf3gu5j4r3.css","style"]
+:HL["/bazi-fortune/_next/static/chunks/0qwrts.l5gbr..css","style"]
+:HL["/bazi-fortune/_next/static/chunks/0-mwjxf7_f~vd.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"8d8rX8b4rB2qCiftz4hVG"}

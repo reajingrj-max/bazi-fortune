@@ -1,0 +1,6 @@
+:HL["/bazi-fortune/_next/static/chunks/0pqbf3gu5j4r3.css","style"]
+:HL["/bazi-fortune/_next/static/chunks/0qwrts.l5gbr..css","style"]
+:HL["/bazi-fortune/_next/static/chunks/0-mwjxf7_f~vd.css","style"]
+:HL["/bazi-fortune/_next/static/media/f112ed7f0b91582f-s.p.0xqqmnf1a3x8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/bazi-fortune/_next/static/media/feb57b2dc8f29018-s.p.13c9k6c3vhklu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"cangjing","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"8d8rX8b4rB2qCiftz4hVG"}
